@@ -26,7 +26,7 @@ Su último gran proyecto ha sido la creación de una **plataforma de selección 
 - Estadísticas descriptivas de las columnas principales.
 
 ### 2. Transformación de los Datos
-- Corrección de valores inconsistentes (`DistanceFromHome` negativos, errores tipográficos en `MaritalStatus`, etc.).
+- Corrección de valores inconsistentes (por ej., errores tipográficos en `MaritalStatus`, etc.).
 - Conversión de tipos de datos (`DailyRate` de *string* → numérico).
 - Reemplazo de valores no intuitivos (`Gender` → "Male"/"Female").
 - Eliminación de duplicados y columnas redundantes.
