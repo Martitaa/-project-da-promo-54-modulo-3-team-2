@@ -18,24 +18,24 @@ Su último gran proyecto ha sido la creación de una **plataforma de selección 
 
 ---
 
-## 🔎 Fases del Proyecto
+## 🔎 Fases del proyecto
 
 ### 1. Análisis Exploratorio de Datos (EDA)
 - Exploración inicial de los datos.
 - Identificación de valores nulos, duplicados, inconsistentes o atípicos.
 - Estadísticas descriptivas de las columnas principales.
 
-### 2. Transformación de los Datos
+### 2. Transformación de los datos
 - Corrección de valores inconsistentes (por ej., errores tipográficos en `MaritalStatus`, etc.).
 - Conversión de tipos de datos (`DailyRate` de *string* → numérico).
 - Reemplazo de valores no intuitivos (`Gender` → "Male"/"Female").
 - Eliminación de duplicados y columnas redundantes.
 
-### 3. Visualización de los Datos
+### 3. Visualización de los datos
 - Creación de gráficos descriptivos para comprender patrones de satisfacción, ingresos, promociones, balance vida-trabajo, etc.
 - Identificación de tendencias y factores de riesgo en la rotación.
 
-### 4. Diseño e Inserción de la Base de Datos
+### 4. Diseño e inserción de la base de datos
 - Definición de tablas, relaciones y claves primarias/foráneas.
 - Inserción de los datos transformados.
 - Preparación para consultas SQL.
@@ -46,7 +46,7 @@ Su último gran proyecto ha sido la creación de una **plataforma de selección 
 
 ---
 
-## 🗂️ Los Datos
+## 🗂️ Los datos
 
 El conjunto de datos contiene información de empleados de ABC Corporation.  
 Algunas de las columnas principales son:
@@ -78,7 +78,7 @@ Algunas de las columnas principales son:
 
 ---
 
-## 🚀 Tecnologías Utilizadas
+## 🚀 Tecnologías utilizadas
 
 - **Lenguaje:** Python 3.10  
 - **Librerías principales:**
@@ -94,7 +94,7 @@ Algunas de las columnas principales son:
 
 ---
 
-## ⚙️ Instrucciones de Uso
+## ⚙️ Instrucciones de uso
 
 1. **Clonar el repositorio:**
    git clone https://github.com/usuario/-proyecto-da-promo-54-modulo-3-team-2.git
@@ -111,7 +111,7 @@ Algunas de las columnas principales son:
 
 ---
 
-## 📅 Planificación del Proyecto
+## 📅 Planificación del proyecto
 
 Se trabajó en 2 sprints siguiendo metodología Scrum.
 Cada sprint incluye:
@@ -123,7 +123,7 @@ Cada sprint incluye:
 
 ---
 
-## Historias de Usuario
+## Historias de usuario
 
     - Como analista, quiero explorar los datos para entender su estructura.
     - Como equipo, queremos limpiar los datos para mejorar su calidad.
@@ -136,8 +136,7 @@ Cada sprint incluye:
     Código Python: extracción, transformación y visualización.
     EDA Documentado: en Jupyter Notebooks.
     Base de Datos: creada con SQL.
-    ETL Automatizada: en archivo .py.
-    README.md y requirements.txt.
+    README.md
 
 ---
 
@@ -145,18 +144,18 @@ Cada sprint incluye:
 
 Clara Bueno
 Esther Domínguez
-Marta Sanz
 Laura Parejo
+Marta Sanz
 Paola Sánchez
 
 ---
 
-## 📌 Estado del Proyecto
+## 📌 Estado del proyecto
 
 🔧 En desarrollo.
 Faltan mejoras relacionadas con:
     - Optimización de consultas SQL.
-    - Expansión de la ETL.
+    - Creación de la ETL.
     - Creación de dashboards interactivos.
 
 ---
